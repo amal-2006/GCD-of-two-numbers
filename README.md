@@ -16,11 +16,9 @@ To write a program to find the GCD of two numbers using function.
 
 ## Program:
 ```
-
 Program to find the gcd of two number using function.
 Developed by: AMALJOSH MAADHAV J
 RegisterNumber:  212223230012
-
 
 
 def newton_method(number,number_iters=100):
@@ -31,7 +29,6 @@ def newton_method(number,number_iters=100):
 
 a=int(input())
 print("Square root of the number:",newton_method(a))
-
 
 
 
