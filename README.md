@@ -21,10 +21,13 @@ Program to find the gcd of two number using function.
 Developed by: 
 RegisterNumber:  
 */
-```
 
 
-```
+
+
+
+
+
 def newton_method(number,number_iters=100):
     a=float(number)
     for i in range(number_iters):
